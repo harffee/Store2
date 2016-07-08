@@ -1,0 +1,14 @@
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\bin\Debug\zh-Hans\Microsoft.Web.Infrastructure.resources.dll
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\v-jzingh\Documents\GitHubVisualStudio\MyStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
